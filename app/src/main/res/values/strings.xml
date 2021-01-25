@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MayaQuest</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="next">Next</string>
+    <string name="textview"></string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="start_test">Start Test</string>
+    <string name="please_select_a_topic">Please select a topic:</string>
+    <string name="validate">Evaluate</string>
+    <string name="previous">Previous</string>
+    <string name="refresh">Refresh</string>
+</resources>

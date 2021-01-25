@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468440266843",
+    "project_id": "faiqgcp",
+    "storage_bucket": "faiqgcp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468440266843:android:f7dcd33077e6eca7eda77e",
+        "android_client_info": {
+          "package_name": "in.mj.mayaquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468440266843-es2bt9kr5dp47og3ds4butpl4kgrbgrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.mj.mayaquest",
+            "certificate_hash": "52e1da87d7b0262e6d4a7f54c48866ab148066d7"
+          }
+        },
+        {
+          "client_id": "468440266843-pi417u1hnbitcqe26l1odm6jff23p177.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXErMty67uXyQ52DommSqIzbqyM3f1QEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468440266843-pi417u1hnbitcqe26l1odm6jff23p177.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
